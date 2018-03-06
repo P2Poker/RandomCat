@@ -7,4 +7,18 @@
 
 
 
+
+
+
+
+class PseudoRandomCat
+{
+} ;
+
+
+
+
+
+
+
 #endif  // #ifndef RANDOMCAT_PSEUDORANDOMCAT_H

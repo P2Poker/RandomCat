@@ -13,4 +13,18 @@
 
 
 
+
+
+
+
+class RandomCat
+{
+} ;
+
+
+
+
+
+
+
 #endif  // #ifndef RANDOMCAT_TRUERANDOMCAT_H
