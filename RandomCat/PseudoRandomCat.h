@@ -1,0 +1,10 @@
+#ifndef RANDOMCAT_PSEUDORANDOMCAT_H
+#define RANDOMCAT_PSEUDORANDOMCAT_H
+
+
+
+#include "TrueRandomCat.h"
+
+
+
+#endif  // #ifndef RANDOMCAT_PSEUDORANDOMCAT_H

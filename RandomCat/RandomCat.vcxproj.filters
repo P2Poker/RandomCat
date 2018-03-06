@@ -21,6 +21,15 @@
     <ClInclude Include="RandomCat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TrueRandomCat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PseudoRandomCat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomCatCipher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="RandomCat.cpp">

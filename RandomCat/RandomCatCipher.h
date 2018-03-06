@@ -1,0 +1,10 @@
+#ifndef RANDOMCAT_RANDOMCATCIPHER_H
+#define RANDOMCAT_RANDOMCATCIPHER_H
+
+
+
+#include "RandomCatCommon.h"
+
+
+
+#endif  // #ifndef RANDOMCAT_RANDOMCATCIPHER_H
