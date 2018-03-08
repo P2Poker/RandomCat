@@ -35,21 +35,6 @@
 
 # The remainder is copied from Crypto++
 
-####################
-## Crypto++ specific
-####################
-adhoc.cpp
-adhoc.cpp.copied
-libcryptopp.a
-libcryptopp.so
-libcryptopp.dylib
-cryptest.exe
-cryptopp-test.cxx
-cryptopp-test.exe
-cryptopp-test.s
-cryptopp.mac.done
-GNUmakefile.deps
-
 ##############
 ## Patch files
 ##############
