@@ -15,6 +15,9 @@
 
 
 
+/// \brief Thread-safe, high-performance, manually seedable, highly unpredictable pseudo-random number generator
+/// \details Uses AES to perform randomization. Uses SHA to convert generic seed bytes into an AES key and cipher block bytes.
+///  Useful in situations that require repeatable random sequences by reusing a given seed value. Should not be used in security-sensitive contexts.
 class PseudoRandomCat :
 	public RandomCat
 {
