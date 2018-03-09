@@ -677,12 +677,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="seudorandomcat.h" />
-    <ClInclude Include="andomcatcommon.h" />
-    <ClInclude Include="andomcat.h" />
+    <ClInclude Include="pseudorandomcat.h" />
+    <ClInclude Include="randomcatcommon.h" />
+    <ClInclude Include="randomcat.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="andomcat.cpp" />
+    <ClCompile Include="randomcat.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

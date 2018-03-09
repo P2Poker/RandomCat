@@ -15,18 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="seudorandomcat.h">
+    <ClInclude Include="pseudorandomcat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="andomcat.h">
+    <ClInclude Include="randomcat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="andomcatcommon.h">
+    <ClInclude Include="randomcatcommon.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="andomcat.cpp">
+    <ClCompile Include="randomcat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
