@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="pseudorandomcat.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="randomcat.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="randomcatcommon.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

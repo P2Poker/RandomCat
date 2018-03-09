@@ -677,8 +677,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="pseudorandomcat.h" />
-    <ClInclude Include="randomcatcommon.h" />
     <ClInclude Include="randomcat.h" />
   </ItemGroup>
   <ItemGroup>
